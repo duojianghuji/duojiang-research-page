@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Duojiang | Research"
+  search: true
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - projects.qmd
+      - resources.qmd
+      - contact.qmd
+  page-footer:
+    left: "Duojiang"
+    right: "Built with [Quarto](https://quarto.org)."
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    grid:
+      body-width: 960px
+      margin-width: 220px
+
+execute:
+  freeze: auto
+
+

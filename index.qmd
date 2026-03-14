@@ -1,0 +1,55 @@
+---
+title: "Questions, methods, and scientific work in public"
+page-layout: full
+---
+
+:::{.hero}
+## Duojiang
+
+This site is a concise home for research questions, project pages, publications, and reusable materials. It is designed to stay readable for collaborators, review committees, and curious visitors outside the field.
+
+::: {.hero-meta}
+::: {.hero-chip}
+Focus
+Scientific themes, outputs, and working notes
+:::
+::: {.hero-chip}
+Format
+Short pages, plain language, and room for figures
+:::
+::: {.hero-chip}
+Update rhythm
+Light edits during the year, deeper updates around papers and talks
+:::
+:::
+:::
+
+## Research at a glance
+
+:::{.card-grid}
+::: {.panel}
+### Research themes
+
+Use the research page to explain your scientific questions in plain language. Keep the number of themes small and make each one legible to non-specialists.
+:::
+::: {.panel}
+### Publications
+
+List papers, preprints, posters, and code releases together with one-sentence summaries that explain why each output matters.
+:::
+::: {.panel}
+### Projects
+
+Create one page per active line of work. A strong project page states the question, approach, current status, and related outputs.
+:::
+:::
+
+## What this site is for
+
+- Explain your work without assuming deep prior knowledge.
+- Give collaborators a stable place to understand questions, methods, and outputs.
+- Keep a public-facing record that grows steadily instead of becoming a backlog.
+
+## A simple publishing rule
+
+Put polished summaries here and keep supporting detail in linked papers, repositories, slides, or datasets. This keeps the site concise while still useful.

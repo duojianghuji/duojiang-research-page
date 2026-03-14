@@ -1,0 +1,26 @@
+---
+title: "Contact"
+---
+
+I use this page as the stable endpoint for short bio text, contact details, and external profiles.
+
+## Short bio
+
+Duojiang is building a research site that foregrounds questions, methods, and reusable outputs. The goal is a public record that stays clear, current, and easy to navigate.
+
+## Add your public links
+
+- Email: `your.email@example.com`
+- GitHub: `https://github.com/your-handle`
+- ORCID / Google Scholar / institutional profile: add the links you actively maintain
+
+## What belongs on this page
+
+- A one-paragraph bio
+- A current CV or a link to one
+- The simplest way to reach you
+- External profiles that are worth keeping updated
+
+::: {.note-box}
+Replace the placeholder contact line before publishing publicly. Everything else on the page can stay fairly minimal.
+:::

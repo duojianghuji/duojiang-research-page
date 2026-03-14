@@ -1,0 +1,29 @@
+---
+title: "Resources"
+---
+
+This section is the research-site equivalent of a well-kept drawer of tools. It works best when it stays selective.
+
+## What belongs here
+
+:::{.stack-grid}
+::: {.stack-card}
+### Code and analysis
+
+Reusable repositories, notebooks, scripts, and small utilities that support your scientific workflow.
+:::
+::: {.stack-card}
+### Data and protocols
+
+Datasets, metadata notes, experimental protocols, imaging workflows, and processing checklists.
+:::
+::: {.stack-card}
+### Talks and teaching
+
+Slide decks, tutorials, course notes, and public-facing explainers that are worth revisiting.
+:::
+:::
+
+## Curation rule
+
+Only add resources that you would still recommend to a collaborator six months from now. A short, reliable list is better than a noisy archive.

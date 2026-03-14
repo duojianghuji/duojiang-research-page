@@ -1,0 +1,47 @@
+---
+title: "Research"
+---
+
+My preference is to organize research around a small number of questions instead of a long list of disconnected topics. Each theme below should stay understandable to a broad audience while still giving specialists enough detail to see where the work is heading.
+
+:::{.card-grid}
+::: {.panel}
+### Scientific questions
+
+State the core question first. Explain why it matters, what gap it addresses, and what would count as a meaningful result.
+:::
+::: {.panel}
+### Methods and evidence
+
+Summarize the tools, measurements, experiments, models, or imaging approaches you use. This is where visitors understand how you actually work.
+:::
+::: {.panel}
+### Interpretation
+
+Connect the measurements back to the larger scientific story. A good research page is not just a methods list; it explains what the work changes.
+:::
+:::
+
+## Suggested theme structure
+
+:::{.stack-grid}
+::: {.stack-card}
+### Theme 1
+
+Write a short paragraph in plain language, then add two or three guiding questions and link outward to papers, datasets, or slides.
+:::
+::: {.stack-card}
+### Theme 2
+
+Use one figure or image when a visual can carry the explanation faster than text. Quarto makes it easy to mix narrative and figures on the same page.
+:::
+::: {.stack-card}
+### Theme 3
+
+Reserve room for work in progress. A site like this is more useful when it can show direction, not just finished outputs.
+:::
+:::
+
+::: {.note-box}
+This page is intentionally lightweight at launch. Replace the theme placeholders above with your actual research areas and add links as papers and project pages come online.
+:::

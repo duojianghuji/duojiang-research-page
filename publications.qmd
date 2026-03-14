@@ -1,0 +1,36 @@
+---
+title: "Publications"
+---
+
+This page is ready for papers, preprints, posters, and software notes. The most useful publication pages do two things at once: they provide a complete record, and they give each entry a short summary that explains why it matters.
+
+## Recommended entry format
+
+:::{.stack-grid}
+::: {.stack-card}
+### Citation
+
+Author list. Year. Title. Journal or venue. Links to DOI, preprint, repository, slides, and data when available.
+:::
+::: {.stack-card}
+### Plain-language summary
+
+One or two sentences that answer: what question did this output address, and what changed because of it?
+:::
+::: {.stack-card}
+### Tags
+
+Use a few stable tags such as theme, method, or dataset so visitors can scan your work without reading everything.
+:::
+:::
+
+## Sections to maintain
+
+- Peer-reviewed articles
+- Preprints and manuscripts in review
+- Conference posters and talks
+- Software, protocols, and datasets
+
+::: {.note-box}
+Once you add real entries, keep the newest outputs near the top and use short summaries instead of long abstracts.
+:::

@@ -1,0 +1,40 @@
+---
+title: "Projects"
+---
+
+Project pages are where a research site becomes genuinely useful. They let you document work before it reaches the paper stage and give collaborators one stable link for context.
+
+## What each project page should include
+
+:::{.card-grid}
+::: {.panel}
+### Question
+
+Describe the scientific problem in one short paragraph. If the problem statement is unclear, the rest of the page will feel scattered.
+:::
+::: {.panel}
+### Approach
+
+List the system, measurements, experiments, or analytical workflow that make the project possible.
+:::
+::: {.panel}
+### Status
+
+Note whether the work is exploratory, active, submitted, or archived. This saves everyone time.
+:::
+::: {.panel}
+### Related outputs
+
+Link directly to papers, code, talks, datasets, notebooks, or image galleries connected to the project.
+:::
+:::
+
+## Suggested buckets
+
+- Active projects
+- Work in development
+- Archived projects with reusable materials
+
+::: {.note-box}
+If a project becomes complicated, split it into one overview page plus smaller subpages for methods, figures, or field notes.
+:::
