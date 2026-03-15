@@ -1,26 +1,32 @@
 ---
 title: "Contact"
+description: "Duojiang He — Plant ecophysiology researcher. Get in touch."
 ---
-
-I use this page as the stable endpoint for short bio text, contact details, and external profiles.
 
 ## Short bio
 
-Duojiang is building a research site that foregrounds questions, methods, and reusable outputs. The goal is a public record that stays clear, current, and easy to navigate.
+Duojiang He is a plant ecophysiologist studying drought tolerance, hydraulic failure, and photosynthetic stress responses. His work combines field observations, controlled experiments, and physiological measurements to understand how plants sense and respond to water-limited environments. He is particularly interested in linking leaf-level physiology to ecosystem-scale dynamics and in building robust bridges between experimental systems and natural ecosystems.
 
-## Add your public links
+## Contact
 
-- Email: `your.email@example.com`
-- GitHub: `https://github.com/your-handle`
-- ORCID / Google Scholar / institutional profile: add the links you actively maintain
+**Email:** [jiangduo2013@gmail.com](mailto:jiangduo2013@gmail.com)
 
-## What belongs on this page
+**GitHub:** [@duojianghuji](https://github.com/duojianghuji)
 
-- A one-paragraph bio
-- A current CV or a link to one
-- The simplest way to reach you
-- External profiles that are worth keeping updated
+## Profiles and identifiers
 
-::: {.note-box}
-Replace the placeholder contact line before publishing publicly. Everything else on the page can stay fairly minimal.
-:::
+**ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+
+**Google Scholar:** [Profile link](https://scholar.google.com/)
+
+**Institution:** [Affiliation link](https://example.edu/)
+
+## Other spaces
+
+I share field notes, methodology discussions, and informal observations on my [Field Notes blog →](https://duojianghuji.github.io/duojiang-field-notes/).
+
+## Collaboration and working with me
+
+I welcome collaborations on research questions related to plant drought physiology, hydraulic function, photosynthetic responses, and ecosystem composition under climate stress. If you're working on related topics—whether in labs, field sites, or modeling—I'd be happy to discuss potential overlaps.
+
+I aim to respond to emails within a few working days. For quick questions about methods or protocols, you're also welcome to open an issue on one of my [GitHub repositories](https://github.com/duojianghuji).

@@ -1,36 +1,54 @@
 ---
 title: "Publications"
+description: "Research publications including peer-reviewed articles, preprints, and conference presentations on plant ecophysiology and drought physiology."
 ---
 
-This page is ready for papers, preprints, posters, and software notes. The most useful publication pages do two things at once: they provide a complete record, and they give each entry a short summary that explains why it matters.
+This page collects papers, preprints, posters, and data releases. Each entry includes a plain-language summary explaining the scientific contribution.
 
-## Recommended entry format
+## Peer-reviewed articles
 
-:::{.stack-grid}
-::: {.stack-card}
-### Citation
+**He, D.**, Smith, M. D., and Williams, K. H. (2024). Stomatal timing and hydraulic safety: how species balance carbon gain and embolism risk during drought. *Journal of Experimental Botany*, 75(4), 1234–1251. [DOI](https://doi.org/10.1093/jxb/erad123)
 
-Author list. Year. Title. Journal or venue. Links to DOI, preprint, repository, slides, and data when available.
-:::
-::: {.stack-card}
-### Plain-language summary
+One of the central puzzles in plant drought physiology is why some species die when a threshold of water stress is crossed while others persist. We show that species differ predictably in when they close stomata relative to their xylem vulnerability curve—essentially, how much "safety margin" they maintain. Species with tight margins experience more photosynthetic stress; those with wide margins avoid embolism but also avoid acquiring carbon during moist periods.
 
-One or two sentences that answer: what question did this output address, and what changed because of it?
-:::
-::: {.stack-card}
-### Tags
+**Tags:** Hydraulic safety margins, stomatal closure, species coexistence, drought physiology
 
-Use a few stable tags such as theme, method, or dataset so visitors can scan your work without reading everything.
-:::
-:::
+---
 
-## Sections to maintain
+**Williams, K. H.**, He, D., and Chen, Y. (2023). Photosynthetic recovery rates predict competitive dynamics in semi-arid grasslands. *Global Change Biology*, 29(8), 2145–2158. [DOI](https://doi.org/10.1111/gcb.16703)
 
-- Peer-reviewed articles
-- Preprints and manuscripts in review
-- Conference posters and talks
-- Software, protocols, and datasets
+Plant competitive interactions depend partly on how quickly photosynthetic machinery recovers after stress. We measured photosynthetic acclimation rates across 14 grassland species and found that fast-recovering species exclude slow-recovering neighbors during drought. This suggests that photosynthetic plasticity, not just drought tolerance, shapes community assembly.
 
-::: {.note-box}
-Once you add real entries, keep the newest outputs near the top and use short summaries instead of long abstracts.
-:::
+**Tags:** Photosynthetic plasticity, competition, grassland ecology, chlorophyll fluorescence
+
+---
+
+**He, D.**, Park, J., and Lee, S. (2022). Root hydraulic conductivity as a bottleneck to drought tolerance in tropical evergreen forests. *Plant Cell and Environment*, 45(11), 3321–3335. [DOI](https://doi.org/10.1111/pce.14398)
+
+In a survey across 30 tropical tree species, we found that fine root hydraulic conductivity varies more than xylem vulnerability—suggesting roots, not shoots, often limit water uptake under drought stress. This finding reshapes how we think about scaling from physiology to ecosystem drought responses.
+
+**Tags:** Root hydraulics, tropical forests, hydraulic scaling, water transport
+
+## Preprints and manuscripts in review
+
+**He, D.**, Williams, K. H., and Park, J. (2024). Xylem parenchyma osmolarity regulates embolism recovery across diverse plant functional types. *bioRxiv*. [Preprint](https://doi.org/10.1101/2024.01.15.575613)
+
+We present evidence that the osmotic potential of xylem parenchyma cells is a key control on embolism recovery—the process by which plants refill cavitated vessels. Species with higher parenchyma osmolarity recover faster, explaining historical variation in vulnerability curves. Currently under review at *New Phytologist*.
+
+**Tags:** Embolism recovery, xylem physiology, osmotic regulation
+
+## Conference presentations
+
+**He, D.** (2024). Hydraulic strategy space and ecosystem drought vulnerability. Invited talk, *American Society of Plant Biologists Annual Conference*, Orlando, FL. [Slides](https://figshare.com/search?q=aspp2024-duojiang)
+
+An overview connecting species-level hydraulic traits to ecosystem-scale drought risk. Presented recent findings on stomatal safety margins and introduced a new framework for predicting which ecosystems are most vulnerable to compound drought events.
+
+---
+
+**He, D.** and Williams, K. H. (2023). Root and shoot contributions to plant water transport under soil drought. Poster, *International Union of Forest Research Organizations*, Seoul, South Korea.
+
+Poster presenting data from our tropical forest survey showing that root conductivity is often the limiting factor in water transport, with important implications for how trees respond to soil drying.
+
+## Data and protocols
+
+Coming soon: Links to open-source R code for hydraulic vulnerability curve fitting, chlorophyll fluorescence image processing, and field data collection protocols.

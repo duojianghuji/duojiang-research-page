@@ -1,55 +1,72 @@
 ---
-title: "Questions, methods, and scientific work in public"
+title: "Duojiang | Plant Ecophysiology Research"
 page-layout: full
 ---
 
 :::{.hero}
-## Duojiang
+## Duojiang He
 
-This site is a concise home for research questions, project pages, publications, and reusable materials. It is designed to stay readable for collaborators, review committees, and curious visitors outside the field.
+**Plant Ecophysiology Researcher** studying how plants sense, respond to, and survive environmental stress.
+
+I investigate the physiological mechanisms underlying drought tolerance, hydraulic failure, and photosynthetic adaptation across species and ecosystems. My work combines field observations, controlled experiments, and ecophysiological measurements to bridge the gap between cellular processes and ecosystem function.
 
 ::: {.hero-meta}
 ::: {.hero-chip}
 Focus
-Scientific themes, outputs, and working notes
+Plant water relations, drought physiology, and photosynthetic stress responses
 :::
 ::: {.hero-chip}
-Format
-Short pages, plain language, and room for figures
+Methods
+Gas exchange, chlorophyll fluorescence, hydraulic measurements, xylem imaging
 :::
 ::: {.hero-chip}
-Update rhythm
-Light edits during the year, deeper updates around papers and talks
+Systems
+Diverse plant species across gradients of water availability
 :::
 :::
 :::
 
-## Research at a glance
+## Get in touch
+
+:::{.card-grid}
+::: {.panel}
+### Email
+
+[jiangduo2013@gmail.com](mailto:jiangduo2013@gmail.com)
+:::
+::: {.panel}
+### GitHub
+
+[@duojianghuji](https://github.com/duojianghuji)
+:::
+::: {.panel}
+### ORCID
+
+[0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+:::
+:::
+
+## Research highlights
 
 :::{.card-grid}
 ::: {.panel}
 ### Research themes
 
-Use the research page to explain your scientific questions in plain language. Keep the number of themes small and make each one legible to non-specialists.
+Organized around core questions: plant hydraulic failure, photosynthetic acclimation, and root-soil interactions under stress. [Explore →](/research.qmd)
 :::
 ::: {.panel}
 ### Publications
 
-List papers, preprints, posters, and code releases together with one-sentence summaries that explain why each output matters.
+Papers, preprints, and conference presentations with plain-language summaries explaining the significance of each output. [View all →](/publications.qmd)
 :::
 ::: {.panel}
-### Projects
+### Active projects
 
-Create one page per active line of work. A strong project page states the question, approach, current status, and related outputs.
+Current work on stomatal regulation, xylem vulnerability, and species coexistence under drought. [See projects →](/projects.qmd)
 :::
 :::
 
-## What this site is for
+## More
 
-- Explain your work without assuming deep prior knowledge.
-- Give collaborators a stable place to understand questions, methods, and outputs.
-- Keep a public-facing record that grows steadily instead of becoming a backlog.
-
-## A simple publishing rule
-
-Put polished summaries here and keep supporting detail in linked papers, repositories, slides, or datasets. This keeps the site concise while still useful.
+- **[Resources](/resources.qmd)** — Code, protocols, and field notes
+- **[Field Notes →](https://duojianghuji.github.io/duojiang-field-notes/)** — Observations and methods from the field (external site)

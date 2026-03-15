@@ -1,29 +1,44 @@
 ---
 title: "Resources"
+description: "Reusable code, protocols, and teaching materials for plant ecophysiology research."
 ---
 
-This section is the research-site equivalent of a well-kept drawer of tools. It works best when it stays selective.
+A curated collection of tools, code, and protocols that support my research workflow and that collaborators have found useful.
 
-## What belongs here
+## Code and analysis
 
-:::{.stack-grid}
-::: {.stack-card}
-### Code and analysis
+**Hydraulic vulnerability curve fitting** — R package for fitting and comparing vulnerability curves from bench dehydration experiments. Includes confidence interval estimation and published comparison functions.
+[Repository on GitHub](https://github.com/duojianghuji/) | [Documentation](https://duojianghuji.github.io/)
 
-Reusable repositories, notebooks, scripts, and small utilities that support your scientific workflow.
-:::
-::: {.stack-card}
-### Data and protocols
+**Chlorophyll fluorescence image processing** — Python pipeline for batch processing PAM fluorescence images, extracting spatial heterogeneity in quenching rates, and generating publication-ready figures.
+[GitHub](https://github.com/duojianghuji/) | Status: Active development
 
-Datasets, metadata notes, experimental protocols, imaging workflows, and processing checklists.
-:::
-::: {.stack-card}
-### Talks and teaching
+**Water potential modeling** — R code for inverse modeling plant water status using predawn and midday measurements; includes soil-plant-atmosphere continuum (SPAC) parameterization.
+[GitHub](https://github.com/duojianghuji/)
 
-Slide decks, tutorials, course notes, and public-facing explainers that are worth revisiting.
-:::
-:::
+## Data and protocols
 
-## Curation rule
+**Standard protocols for pressure chamber measurements** — Step-by-step documentation for obtaining accurate water potential, xylem conductivity, and root hydraulic conductivity. Includes troubleshooting and quality control checkpoints.
+[Protocols.io](https://www.protocols.io/)
 
-Only add resources that you would still recommend to a collaborator six months from now. A short, reliable list is better than a noisy archive.
+**Vulnerability curve determination guide** — Visual protocol for the bench dehydration method. Covers branch selection, measurement timing, and common pitfalls.
+[Protocols.io](https://www.protocols.io/)
+
+**Plant hydraulic traits database (n = 200+ species)** — Compiled values for xylem pressure at 50% conductivity loss (P₅₀), stomatal conductance under different water stress regimes, and photosynthetic parameters. Data from published literature.
+[Figshare](https://figshare.com/) | [Metadata](https://osf.io/)
+
+**Soil-plant water relations dataset (semi-arid woodlands)** — Raw measurements from 2022–2024 field campaigns including predawn water potential, stomatal conductance, soil matric potential, and sap flux density.
+[Open Science Framework (OSF)](https://osf.io/)
+
+## Talks and teaching
+
+**"Plant hydraulic strategy and ecosystem drought risk"** — Invited seminar slides (ASPP 2024). Summarizes the current understanding of how species-level hydraulic traits scale to ecosystem vulnerability.
+[Slides on Figshare](https://figshare.com/)
+
+**"Chlorophyll fluorescence as a diagnostic tool"** — Short tutorial on interpreting Fv/Fm, non-photochemical quenching, and photochemical efficiency in the context of drought stress. Aimed at graduate students new to fluorescence methods.
+[Tutorial notebook on OSF](https://osf.io/)
+
+**Resources for teaching plant physiology** — Curated links to open-access tutorials, video demonstrations of pressure chamber use, and interactive visualization tools.
+- [Plant-water relations simulator](https://example.com/)
+- [Photosynthesis animation](https://example.com/)
+- [Stomatal regulation models](https://example.com/)

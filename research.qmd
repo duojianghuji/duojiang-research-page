@@ -1,47 +1,60 @@
 ---
 title: "Research"
+description: "Core research themes in plant ecophysiology: hydraulic failure, photosynthetic stress response, and root-soil water relations."
 ---
 
-My preference is to organize research around a small number of questions instead of a long list of disconnected topics. Each theme below should stay understandable to a broad audience while still giving specialists enough detail to see where the work is heading.
+My research centers on understanding how plants maintain physiological function under water stress and what mechanisms determine the boundaries of survival. I organize this work around three interconnected themes that span from cellular hydraulics to ecosystem composition.
 
-:::{.card-grid}
-::: {.panel}
-### Scientific questions
+## Theme 1: Plant hydraulic failure and drought survival
 
-State the core question first. Explain why it matters, what gap it addresses, and what would count as a meaningful result.
-:::
-::: {.panel}
-### Methods and evidence
+**Core question:** What determines whether plants experience xylem cavitation under drought, and how do evolutionary and physiological trade-offs shape hydraulic strategy?
 
-Summarize the tools, measurements, experiments, models, or imaging approaches you use. This is where visitors understand how you actually work.
-:::
-::: {.panel}
-### Interpretation
+Plants face a fundamental constraint: stomata must open to acquire carbon dioxide, but open stomata permit water loss. When soil water becomes scarce, the tension in xylem vessels increases until air bubbles (embolisms) form and cut off water transport. Different species vary dramatically in vulnerability to this process.
 
-Connect the measurements back to the larger scientific story. A good research page is not just a methods list; it explains what the work changes.
-:::
-:::
+My work investigates:
+- Xylem vulnerability curves across species and functional types
+- Stomatal regulation in response to plant water status
+- Hydraulic safety margins and their relationship to mortality risk
+- Trade-offs between hydraulic capacity and photosynthetic investment
 
-## Suggested theme structure
+::: {.callout-note}
+### Methods
 
-:::{.stack-grid}
-::: {.stack-card}
-### Theme 1
-
-Write a short paragraph in plain language, then add two or three guiding questions and link outward to papers, datasets, or slides.
-:::
-::: {.stack-card}
-### Theme 2
-
-Use one figure or image when a visual can carry the explanation faster than text. Quarto makes it easy to mix narrative and figures on the same page.
-:::
-::: {.stack-card}
-### Theme 3
-
-Reserve room for work in progress. A site like this is more useful when it can show direction, not just finished outputs.
-:::
+I measure plant water potential using a pressure chamber, xylem conductivity via bench dehydration and air injection, and stomatal behavior through porometry and gas exchange. Field observations are paired with controlled drought experiments.
 :::
 
-::: {.note-box}
-This page is intentionally lightweight at launch. Replace the theme placeholders above with your actual research areas and add links as papers and project pages come online.
+## Theme 2: Photosynthetic acclimation to environmental change
+
+**Core question:** How rapidly and completely can plants reoptimize photosynthetic machinery when light, temperature, or water availability shifts?
+
+Photosynthesis is highly sensitive to environmental conditions. The allocation of resources among light-harvesting complexes, electron transport components, and CO₂ fixation enzymes must match the prevailing conditions to maximize carbon gain while managing photo-oxidative stress.
+
+I investigate:
+- Chlorophyll fluorescence and non-photochemical quenching under acute and chronic stress
+- Gas exchange responses to light and temperature transitions
+- Regulation of the xanthophyll cycle and photoprotective pigments
+- Species differences in acclimation rate and reversibility
+
+::: {.callout-note}
+### Methods
+
+My primary tools are portable gas exchange systems (LI-COR) for measuring photosynthetic rates and chlorophyll fluorescence imaging (pulse-amplitude modulation) to assess light-harvesting efficiency and energy dissipation.
+:::
+
+## Theme 3: Root-soil interactions under water stress
+
+**Core question:** How do fine roots adjust their physiology, architecture, and symbioses in response to spatial and temporal variation in soil water and nutrient availability?
+
+Roots operate in a highly heterogeneous environment where water and nutrient patches shift with rainfall and soil mineralogy. Root hydraulic conductivity, mycorrhizal associations, and root hair density vary in response to these gradients, with important consequences for whole-plant water relations and nutrient acquisition.
+
+I examine:
+- Root hydraulic conductivity and its sensitivity to xylem tension
+- Root architecture and allocation under drought
+- Rhizosphere dynamics and mycorrhizal responses to water stress
+- Coupling between root water uptake and soil drying
+
+::: {.callout-note}
+### Methods
+
+I combine root excavation and morphological analysis with root-specific pressure chamber measurements and rhizosphere sampling for microbial community analysis. Field sites include semi-arid woodlands where seasonal water limitation shapes root phenology.
 :::

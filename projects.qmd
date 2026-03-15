@@ -1,40 +1,98 @@
 ---
 title: "Projects"
+description: "Active and developing research projects on plant drought physiology, hydraulic failure, and photosynthetic stress."
 ---
 
-Project pages are where a research site becomes genuinely useful. They let you document work before it reaches the paper stage and give collaborators one stable link for context.
+Project pages document work in progress and give collaborators a stable reference point. Below are current and developing initiatives organized by status.
 
-## What each project page should include
+## Active projects
 
-:::{.card-grid}
-::: {.panel}
-### Question
+### Stomatal response diversity in semi-arid woodlands
 
-Describe the scientific problem in one short paragraph. If the problem statement is unclear, the rest of the page will feel scattered.
-:::
-::: {.panel}
-### Approach
+**Status:** Active — field sampling ongoing through 2025
 
-List the system, measurements, experiments, or analytical workflow that make the project possible.
-:::
-::: {.panel}
-### Status
+**Question:** How do co-occurring woody species differ in their stomatal responses to soil water availability, and do these differences predict drought-driven mortality?
 
-Note whether the work is exploratory, active, submitted, or archived. This saves everyone time.
-:::
-::: {.panel}
-### Related outputs
+We're measuring stomatal conductance, predawn water potential, and midday xylem tension across 12 species along a soil moisture gradient in southwestern woodlands. The goal is to understand why some species consistently experience wider water stress windows than others, and whether this difference reflects different stomatal strategies or different vulnerability curves.
 
-Link directly to papers, code, talks, datasets, notebooks, or image galleries connected to the project.
-:::
-:::
+**Approach:**
+- Monthly field campaigns during growing and dry seasons
+- Predawn and midday water potential measurements (pressure chamber)
+- Stomatal conductance via porometry
+- Xylem vulnerability curves for each species (bench dehydration method)
+- Soil moisture monitoring with TDR probes
 
-## Suggested buckets
+**Related outputs:**
+- Preliminary results presented at ASPP 2024
+- Data openly shared on [OSF](https://osf.io/)
 
-- Active projects
-- Work in development
-- Archived projects with reusable materials
+---
 
-::: {.note-box}
-If a project becomes complicated, split it into one overview page plus smaller subpages for methods, figures, or field notes.
-:::
+### Root-to-shoot hydraulic bottleneck in tropical evergreens
+
+**Status:** Active — data analysis phase
+
+**Question:** Under what conditions does root conductivity limit whole-plant water transport more than xylem vulnerability?
+
+In 2023–2024, we measured root hydraulic conductivity (using root pressure chamber), shoot xylem vulnerability (air injection method), and whole-plant drought responses across 30 tropical tree species. Preliminary analysis suggests roots are the bottleneck for 60% of species. We're now modeling how this changes with soil drying and linking it to species' drought survival strategies.
+
+**Approach:**
+- Root and stem tissue sampling across mature trees
+- Root-specific pressure chamber measurements
+- Xylem vulnerability assessment (bench dehydration)
+- Sap flow monitoring during natural drought
+- Soil-plant hydraulic continuum modeling
+
+**Related outputs:**
+- Main manuscript submitted to *Plant Cell and Environment*
+- Raw data available on [Zenodo](https://zenodo.org/) (DOI pending)
+- R code for hydraulic calculations on [GitHub](https://github.com/duojianghuji/)
+
+---
+
+## Work in development
+
+### Chlorophyll fluorescence and embolism recovery
+
+**Status:** In development — methods optimization
+
+**Question:** Can chlorophyll fluorescence imaging reliably predict which species will recover from xylem embolism?
+
+We hypothesize that species with effective photoprotection (high non-photochemical quenching) also maintain healthy xylem parenchyma that enables embolism recovery. Testing this requires developing a high-throughput fluorescence imaging pipeline paired with embolism recovery measurements.
+
+**Approach:**
+- PAM fluorescence imaging on hydrated and dehydrating shoots
+- Bench dehydration-rehydration cycles with conductivity recovery measurements
+- Microscopy and histology of xylem parenchyma
+
+**Related outputs:**
+- Methods paper in preparation
+- Lab notebooks and image galleries on [OSF](https://osf.io/)
+
+---
+
+### Community assembly under compound water-heat stress
+
+**Status:** In development — experimental design phase
+
+**Question:** How do simultaneous heat and drought stress reshape plant community composition in ways that soil drought alone cannot explain?
+
+Most field droughts include simultaneous heat stress. Using a manipulative experiment in a Mediterranean grassland, we're applying separate and combined heat and water stress to mesocosm communities to understand their interactive effects on species competitive hierarchies.
+
+**Approach:**
+- Open-top chambers for passive heating
+- Drip irrigation control for water stress
+- Factorial design across 3 community types
+- Monthly measurement of species cover, photosynthetic rates, and water status
+
+**Related outputs:**
+- Experiment running spring–summer 2025
+- Preliminary results expected summer 2025
+
+---
+
+## Archived and reference materials
+
+**Species-level traits database:** A compiled dataset of hydraulic traits, photosynthetic parameters, and drought response metrics for 200+ plant species. Available on [Figshare](https://figshare.com).
+
+**Standard protocols:** Lab protocols for pressure chamber measurements, vulnerability curve determination, and chlorophyll fluorescence imaging are archived on [Protocols.io](https://www.protocols.io).

@@ -3,11 +3,18 @@ project:
 
 website:
   title: "Duojiang | Research"
+  description: "Plant ecophysiology research exploring stress responses, hydraulics, and photosynthetic adaptation."
   search: true
+  favicon: favicon.svg
+  open-graph: true
+  twitter-card: true
+  site-url: "https://duojianghuji.github.io/duojiang-research-page/"
+  repo-url: "https://github.com/duojianghuji/duojiang-research-page"
   navbar:
     background: light
     pinned: true
-    left:
+    collapse: true
+    right:
       - href: index.qmd
         text: Home
       - research.qmd
@@ -17,19 +24,19 @@ website:
       - contact.qmd
   page-footer:
     left: "Duojiang"
-    right: "Built with [Quarto](https://quarto.org)."
+    right: "Built with [Quarto](https://quarto.org). [Field Notes →](https://duojianghuji.github.io/duojiang-field-notes/)"
 
 format:
   html:
-    theme: journal
+    theme: flatly
     css: styles.css
     toc: false
     smooth-scroll: true
     grid:
       body-width: 960px
       margin-width: 220px
+    mainfont: "Ubuntu"
+    monofont: "Ubuntu Mono"
 
 execute:
   freeze: auto
-
-

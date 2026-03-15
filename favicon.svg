@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .leaf-fill { fill: #2d6a4f; }
+    </style>
+  </defs>
+  <!-- Stem -->
+  <path class="leaf-fill" d="M 50 85 Q 48 70 50 50 Q 52 70 50 85 Z" />
+  <!-- Left leaf -->
+  <path class="leaf-fill" d="M 50 50 Q 35 45 30 35 Q 32 42 40 48 Q 45 51 50 50 Z" />
+  <!-- Right leaf -->
+  <path class="leaf-fill" d="M 50 50 Q 65 45 70 35 Q 68 42 60 48 Q 55 51 50 50 Z" />
+  <!-- Top leaf -->
+  <path class="leaf-fill" d="M 50 50 Q 48 35 50 20 Q 52 35 50 50 Z" />
+  <!-- Center vein details -->
+  <line x1="50" y1="20" x2="50" y2="50" stroke="#2d6a4f" stroke-width="1.2" opacity="0.3"/>
+  <line x1="50" y1="50" x2="30" y2="35" stroke="#2d6a4f" stroke-width="1.2" opacity="0.3"/>
+  <line x1="50" y1="50" x2="70" y2="35" stroke="#2d6a4f" stroke-width="1.2" opacity="0.3"/>
+</svg>
